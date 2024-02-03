@@ -25,11 +25,7 @@ pygame.display.set_icon(icon)
 
 # Player
 playerImg = pygame.image.load('player.png')
-@Kala1432
-Kala1432 on May 6, 2022
-why in my MacBook Air m1 this image load function cannot be executed evnthough I used proper code blit as well in viscode in python3
 
-@timikalo7	Reply…
 playerX = 370
 playerY = 480
 playerX_change = 0
